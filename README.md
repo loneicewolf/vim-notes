@@ -41,3 +41,9 @@ and Yes we can, say we can do this:
 - hence, i should also follow it.
   - i dont need to know 100 things about vim, only "one" thing(s) (a group of basic commands, perhaps)
   
+
+
+# issues encountered
+apart from ESCaping vim
+
+- https://stackoverflow.com/a/80014760/11875039
