@@ -1,12 +1,5 @@
 # vim-notes
 My Journey trough VI(Mproved) 
 
-```txt
-# the only thing you who read this need to know:
-:q!
-or
-:q
-to quit.
-```
-
-
+## Epiphanies 
+- You can type "abc" to mean "Hello World", so when you type "abc" it auto types "Hello World" using iabbrev. Wow. this made me literally go "IS THIS THING SENTIENT?!"
