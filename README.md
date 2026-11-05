@@ -28,7 +28,7 @@ But, I thought "okay okay, ive automated the automation 2 times. can i do it one
 and Yes we can, say we can do this:
 - `" Replace HAIR, CLOTHES, SETTINGS with `
   - `%s/\v(HAIR|CLOTHES|SETTING)/\1/g`
-- and we can use its own built in submatch (basically a index, like in python, `Hello[0]=H`
+- and we can use its own built in submatch (basically a index, like in python, `Hello[0]=H`)
   - `:%s/\v(HAIR|CLOTHES|SETTING)/\=submatch(1)[0]/g`
 
 ---
