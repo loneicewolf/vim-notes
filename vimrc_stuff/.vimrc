@@ -27,7 +27,6 @@ autocmd VimEnter * let @/ = ""
 " STUFF I HAVE YET TO DO
 " ================================= "
 " command! LoadPrompts source ~/.vim/profiles/crypto.vim
-" command! CHECKSUM_SHA_1_DATE !sha1sum <<< $(date)
 " command! LoadPrompts source ~/.vim/profiles/prompts.vim
 command! Date r !date
 command! CheckSumSha1Date r !sha1sum <<< $(date)
