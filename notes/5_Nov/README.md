@@ -56,5 +56,20 @@ repeat but with `base64 -d --wrap=0` instead to get it back.
 `----------------------------------------------------------------------`
 
 ## selecting word and WORD
+
 - `viw` selects the current word, but skips = and stuff.
-- `viW` selects `word+=` 
+- `viW` selects `word+=`
+
+## splitting screens
+
+- close window
+  - ctrl w
+  - c
+
+split windows
+- vsplit / split
+- ctrl (double-w) to move to windows
+- `only` <- closes ALL but THE ONE YOURE IN NOW
+
+
+
